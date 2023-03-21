@@ -1,2 +1,1 @@
-# Programas-de-uso-simple
-Este rep. tendrá lo que es unos programas dentro de sus ramas
+Vamos a hacer un listado de lo que es algunos programas simples para mostrar un poco de lo que es las ramas dentro de nuestro github
